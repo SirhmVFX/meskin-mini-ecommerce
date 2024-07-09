@@ -7,16 +7,17 @@ function Header() {
   return (
     <>
       <div className="px-6 md:w-5/6 mx-auto flex justify-between items-center py-6">
-        <div className="w-24 h-full">
-          <Image
-            src={"/logo.png"}
-            width={1000}
-            height={1000}
-            className="w-full h-full object-contain"
-            alt="lgo"
-          />
-        </div>
-
+        <Link href={"/"}>
+          <div className="w-24 h-full">
+            <Image
+              src={"/logo.png"}
+              width={1000}
+              height={1000}
+              className="w-full h-full object-contain"
+              alt="lgo"
+            />
+          </div>
+        </Link>
         <div className="md:flex hidden gap-4">
           <Link href={"/"}>Home </Link>
 
