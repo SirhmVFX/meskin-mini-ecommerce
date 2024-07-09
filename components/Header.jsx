@@ -29,7 +29,10 @@ function Header() {
 
         <div className="flex gap-4">
           <IoIosSearch />
-          <MdOutlineShoppingCart />
+          <Link href={"/cart"}>
+            <MdOutlineShoppingCart />
+          </Link>
+
           <IoMdOptions />
         </div>
       </div>
