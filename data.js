@@ -1,0 +1,98 @@
+export const products = [
+  {
+    id: 1,
+    img: "/1.png",
+    name: "Hydrating shower gel",
+    price: "N7,000",
+  },
+  {
+    id: 2,
+    img: "/2.png",
+    name: "Hydrating shower gel",
+    price: "N7,000",
+  },
+  {
+    id: 1,
+    img: "/3.png",
+    name: "Hydrating shower gel",
+    price: "N7,000",
+  },
+  {
+    id: 1,
+    img: "/4.png",
+    name: "Hydrating shower gel",
+    price: "N7,000",
+  },
+  {
+    id: 1,
+    img: "/5.png",
+    name: "Hydrating shower gel",
+    price: "N7,000",
+  },
+  {
+    id: 1,
+    img: "/6.png",
+    name: "Hydrating shower gel",
+    price: "N7,000",
+  },
+  {
+    id: 1,
+    img: "/7.png",
+    name: "Hydrating shower gel",
+    price: "N7,000",
+  },
+  {
+    id: 1,
+    img: "/8.png",
+    name: "Hydrating shower gel",
+    price: "N7,000",
+  },
+  {
+    id: 1,
+    img: "/9.png",
+    name: "Hydrating shower gel",
+    price: "N7,000",
+  },
+  {
+    id: 1,
+    img: "/10.png",
+    name: "Hydrating shower gel",
+    price: "N7,000",
+  },
+  {
+    id: 1,
+    img: "/11.png",
+    name: "Hydrating shower gel",
+    price: "N7,000",
+  },
+  {
+    id: 1,
+    img: "/12.png",
+    name: "Hydrating shower gel",
+    price: "N7,000",
+  },
+  {
+    id: 1,
+    img: "/13.png",
+    name: "Hydrating shower gel",
+    price: "N7,000",
+  },
+  {
+    id: 1,
+    img: "/14.png",
+    name: "Hydrating shower gel",
+    price: "N7,000",
+  },
+  {
+    id: 1,
+    img: "/15.png",
+    name: "Hydrating shower gel",
+    price: "N7,000",
+  },
+  {
+    id: 1,
+    img: "/16.png",
+    name: "Hydrating shower gel",
+    price: "N7,000",
+  },
+];
